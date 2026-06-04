@@ -1,0 +1,4 @@
+2026-06-04 02:15:00 UTC - Authentication Failure - root from 185.123.45.67
+2026-06-04 02:15:05 UTC - Authentication Success - root from 185.123.45.67
+2026-06-04 02:16:12 UTC - Connection established to upgrade-microsoft-service.com:443
+2026-06-04 02:18:00 UTC - Dumped security credentials from LSASS memory space.
